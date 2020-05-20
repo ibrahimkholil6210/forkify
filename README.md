@@ -9,7 +9,7 @@ Forkify is application for searching food recipe. It's a implementation of api w
 - To install all project dependency
 - `npm install`
 - To start development server
-- `npm run dev`
+- `npm run start`
 - To run build version
 - `npm run build`
 
