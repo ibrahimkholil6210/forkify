@@ -2,6 +2,17 @@
 **Forkify is application for searching food recipe.**  :rocket: `Release notes Forkify 1.0.0`
 ## Description
 Forkify is application for searching food recipe. It's a implementation of api which allow user to search for food recipe from thousand of available recipe. Forkify will allow user to create list of their own favorite recipe which data will be stored is well for better user experience. Use the app and have fun - Ibrahim Kholil 
+
+## Command
+Clone the project
+`git clone`
+To install all project dependency
+`npm install`
+To start development server
+`npm run dev`
+To run build version
+`npm run build`
+
 ## Used Tools and Technologies 
 - HTML
 - CSS
