@@ -17,6 +17,7 @@ Forkify is application for searching food recipe. It's a implementation of api w
 - HTML
 - CSS
 - JAVASCRIPT (Vanila JS)
+- MVC design pattern
 - Food2Fork API
 
 ### Dependencies
