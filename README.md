@@ -51,5 +51,8 @@ Forkify is application for searching food recipe. It's a implementation of api w
 
 It is an opensource project so any developer invited to work on this project. Use `git clone` make change and just send me a pull request :innocent: 
 
-:heart: Best regards - **Ibrahim Kholil**
+:heart: Best regards - 
+[Ibrahim Kholil](https://github.com/ibrahimkholil6210) 
+[Mahbuba Alom](https://github.com/iamseta) 
+
 
