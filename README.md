@@ -54,6 +54,6 @@ It is an opensource project so any developer invited to work on this project. Us
 :heart: Best regards - 
 - [Ibrahim Kholil](https://github.com/ibrahimkholil6210) 
 - [Mahbuba Alom](https://github.com/iamseta) 
-- [Anayet Sabbir]
+- [Anayet Sabbir](https://www.facebook.com/profile.php?id=100008347420293) 
 
 
